@@ -1,0 +1,2 @@
+# kuzushiji
+Kuzushiji Recognition competition
